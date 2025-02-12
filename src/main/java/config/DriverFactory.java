@@ -17,6 +17,15 @@ import static enums.Browser.CHROME;
 public class DriverFactory {
     public static WebDriver driver;
 
+
+    public static WebDriver getDriver(){
+        if(driver == null){
+            intializeDriver();
+        }
+        return driver;
+
+    }
+
     // To get Browser from config file
     private  static final String definedBrowser = ConfigManager.getProperty("browser");
 
@@ -80,10 +89,11 @@ public class DriverFactory {
     public static void  quitDriver(){
         if(driver != null){
             driver.quit();
+            driver = null;
+            }
         }
 
     }
 
 
 
-}
