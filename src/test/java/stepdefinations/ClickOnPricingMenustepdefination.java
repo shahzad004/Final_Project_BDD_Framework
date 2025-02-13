@@ -19,6 +19,7 @@ public class ClickOnPricingMenustepdefination extends BaseTest {
 
     @When("I will click on Pricing Menu")
     public void i_will_click_on_pricing_menu() {
+
         pricingMenu.pricing.click();
 
     }

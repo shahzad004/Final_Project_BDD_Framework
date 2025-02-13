@@ -24,8 +24,10 @@ public class ClickOnProductMenuStepdefination extends BaseTest {
     public void i_am_on_home_page() {
         System.out.println("Home page is here");
     }
-    @When("I will click on Accept coookies if I got Option")
-    public void i_will_click_on_accept_coookies_if_i_got_option() {
+
+
+    @When("I will click on Accept cookies if I got Option")
+    public void i_will_click_on_accept_cookies_if_i_got_option() {
         if(productResource.cookiesButton.isDisplayed()){
             productResource.cookiesButton.click();
             System.out.println("Clicked on cookies");
@@ -39,8 +41,6 @@ public class ClickOnProductMenuStepdefination extends BaseTest {
         System.out.println("Product");
         productResource.productMenu.click();
     }
-
-
 
     @Then("I will click on Automation")
     public void i_will_click_on_automation() throws InterruptedException {

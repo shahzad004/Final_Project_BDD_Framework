@@ -1,8 +1,8 @@
-
+@Product
 Feature: Explore Website
   Scenario: Click On Product Menu
     Given I am on Home Page
-    When I will click on Accept coookies if I got Option
+    When I will click on Accept cookies if I got Option
     Then I will click product Menu
     Then I will click on Automation
     Then I will go back

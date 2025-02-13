@@ -1,3 +1,4 @@
+@verify
 Feature: Verfiy we are on Monday.com
 
   Scenario: Verify Website URL

@@ -459,3 +459,441 @@
 2025-02-11 18:39:43 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
 2025-02-11 18:40:41 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
 2025-02-11 18:40:48 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-11 20:30:25 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-11 20:30:31 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-11 20:37:26 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-11 20:37:34 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-11 20:38:05 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-11 20:38:12 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-11 20:42:19 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-11 20:42:27 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-11 20:44:05 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-11 20:44:16 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-11 20:45:11 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-11 20:45:22 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-11 20:49:03 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-11 20:49:12 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-11 20:50:31 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-11 20:50:40 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-11 20:51:57 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-11 20:52:05 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-11 20:52:27 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-11 20:52:37 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-11 20:53:53 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-11 20:54:03 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 11:41:43 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 11:41:53 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 11:42:03 INFO  BaseTest:54 - Password Field is VISIBLE
+2025-02-12 11:42:24 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 11:42:44 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 11:42:58 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 11:43:13 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 11:43:41 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 11:57:11 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 11:57:19 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 11:59:17 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 11:59:25 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:00:10 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 12:00:17 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:00:37 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:01:01 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:01:15 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:01:30 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:01:58 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:14:59 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 12:15:07 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:15:26 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:15:47 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:16:43 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 12:16:50 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:17:07 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:18:08 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 12:18:16 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:18:37 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:24:52 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 12:25:04 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:25:43 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 12:25:52 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:28:47 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 12:28:55 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:29:21 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 12:29:30 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 12:29:37 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:33:59 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 12:34:07 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:36:29 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 12:36:39 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:37:45 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 12:37:53 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:38:52 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 12:39:00 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:41:25 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 12:41:34 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:41:45 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 12:41:54 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:42:03 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 12:42:43 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 12:44:47 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 12:44:54 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:45:50 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 12:45:58 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:50:36 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 12:50:43 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:51:12 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 12:51:17 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:52:10 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 12:52:14 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:52:17 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 12:52:23 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:52:24 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:52:29 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:52:31 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:52:39 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:52:44 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:52:45 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:52:58 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:52:58 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:53:16 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:53:27 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:58:09 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 12:58:16 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:58:35 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:58:56 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:59:09 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:59:22 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 12:59:37 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 13:52:39 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 13:52:51 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 14:17:18 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 14:17:26 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 14:17:30 INFO  BaseTest:26 - We are on Contact page
+2025-02-12 14:18:19 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 14:18:26 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 14:18:29 INFO  BaseTest:26 - We are on Contact page
+2025-02-12 14:20:18 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 14:20:26 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 14:20:30 INFO  BaseTest:26 - We are on Contact page
+2025-02-12 14:23:11 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 14:23:19 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 14:23:23 INFO  BaseTest:26 - We are on Contact page
+2025-02-12 14:23:36 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 14:23:44 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 14:23:48 INFO  BaseTest:26 - We are on Contact page
+2025-02-12 14:25:39 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 14:25:46 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 14:25:50 INFO  BaseTest:26 - We are on Contact page
+2025-02-12 14:26:57 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 14:27:05 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 14:27:09 INFO  BaseTest:26 - We are on Contact page
+2025-02-12 14:46:22 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 14:46:30 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 14:46:34 INFO  BaseTest:26 - We are on Contact page
+2025-02-12 16:04:58 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:05:06 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 16:05:10 INFO  BaseTest:26 - We are on Contact page
+2025-02-12 16:07:21 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:07:29 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 16:07:33 INFO  BaseTest:26 - We are on Contact page
+2025-02-12 16:10:42 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:10:50 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 16:10:53 INFO  BaseTest:26 - We are on Contact page
+2025-02-12 16:12:31 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:12:40 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 16:12:44 INFO  BaseTest:27 - We are on Contact page
+2025-02-12 16:17:08 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:17:16 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 16:17:20 INFO  BaseTest:27 - We are on Contact page
+2025-02-12 16:19:02 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:19:10 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 16:19:14 INFO  BaseTest:27 - We are on Contact page
+2025-02-12 16:21:13 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:21:20 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 16:21:24 INFO  BaseTest:27 - We are on Contact page
+2025-02-12 16:22:10 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:22:16 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 16:22:23 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:22:29 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 16:22:33 INFO  BaseTest:27 - We are on Contact page
+2025-02-12 16:26:19 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:26:26 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 16:26:30 INFO  BaseTest:27 - We are on Contact page
+2025-02-12 16:30:19 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:30:25 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 16:30:29 INFO  BaseTest:27 - We are on Contact page
+2025-02-12 16:32:17 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:32:24 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 16:32:28 INFO  BaseTest:27 - We are on Contact page
+2025-02-12 16:33:06 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:33:13 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 16:33:17 INFO  BaseTest:27 - We are on Contact page
+2025-02-12 16:36:52 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:37:03 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 16:37:07 INFO  BaseTest:27 - We are on Contact page
+2025-02-12 16:43:28 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:43:35 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 16:43:39 INFO  BaseTest:27 - We are on Contact page
+2025-02-12 16:44:53 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:45:01 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 16:45:05 INFO  BaseTest:27 - We are on Contact page
+2025-02-12 16:47:08 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:47:16 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 16:47:27 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:47:35 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 16:48:38 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:48:46 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 16:48:50 INFO  BaseTest:27 - We are on Contact page
+2025-02-12 16:49:28 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:50:00 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:50:05 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 16:51:38 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:51:44 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 16:51:48 INFO  BaseTest:28 - We are on Contact page
+2025-02-12 16:52:28 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:52:35 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 16:52:40 INFO  BaseTest:28 - We are on Contact page
+2025-02-12 16:53:48 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:53:55 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 16:53:59 INFO  BaseTest:28 - We are on Contact page
+2025-02-12 16:54:40 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:54:44 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 16:54:52 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:55:00 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 16:55:04 INFO  BaseTest:28 - We are on Contact page
+2025-02-12 16:56:27 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:56:35 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 16:56:38 INFO  BaseTest:28 - We are on Contact page
+2025-02-12 16:57:09 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:57:15 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 16:57:27 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:57:34 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 16:57:39 INFO  BaseTest:28 - We are on Contact page
+2025-02-12 16:58:19 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:58:25 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 16:59:00 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:59:07 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 16:59:11 INFO  BaseTest:28 - We are on Contact page
+2025-02-12 16:59:42 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 16:59:50 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 16:59:54 INFO  BaseTest:28 - We are on Contact page
+2025-02-12 17:01:51 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 17:01:57 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 17:02:01 INFO  BaseTest:29 - We are on Contact page
+2025-02-12 17:02:33 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 17:02:40 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 17:02:43 INFO  BaseTest:29 - We are on Contact page
+2025-02-12 18:25:17 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 18:25:28 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 18:25:33 INFO  BaseTest:29 - We are on Contact page
+2025-02-12 18:29:27 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 18:29:39 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 18:29:46 INFO  BaseTest:29 - We are on Contact page
+2025-02-12 18:33:34 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 18:33:44 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 18:33:53 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 18:34:40 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 18:35:11 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 18:35:19 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 18:35:33 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 18:35:42 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 18:35:48 INFO  BaseTest:29 - We are on Contact page
+2025-02-12 18:36:34 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 18:36:42 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 18:36:50 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 18:36:58 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 18:37:01 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 18:37:10 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 18:46:20 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 18:46:32 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 18:47:10 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 18:47:18 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 18:48:11 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 18:48:20 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 18:49:27 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 18:49:37 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 18:51:24 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 18:51:34 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 18:52:52 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 18:53:02 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-12 18:53:38 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-12 18:53:46 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:10:09 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 11:10:18 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:16:09 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 11:16:15 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:20:18 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 11:20:22 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:25:10 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 11:25:17 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:25:21 INFO  BaseTest:29 - We are on Contact page
+2025-02-13 11:25:25 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:25:31 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:26:10 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 11:26:16 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:27:54 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 11:28:02 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:28:05 INFO  BaseTest:52 - Password Field is VISIBLE
+2025-02-13 11:29:55 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 11:29:59 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:31:13 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 11:31:22 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:31:32 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:33:02 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 11:33:09 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:33:16 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:33:26 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 11:33:34 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:34:07 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 11:34:13 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:40:36 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 11:40:44 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:40:52 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:41:00 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:41:07 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:41:23 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:41:40 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 11:41:48 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:41:57 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:42:05 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:42:30 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 11:42:39 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:42:46 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:42:52 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 11:42:57 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:44:11 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 11:44:15 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:44:19 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:44:23 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:44:27 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:44:32 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:45:22 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 11:45:25 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:45:29 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:45:33 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:45:37 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:45:42 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:45:47 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:45:54 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:45:58 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:46:07 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 11:46:10 INFO  BaseTest:23 - Base URL for these Testhttps://monday.com
+2025-02-13 11:46:16 INFO  BaseTest:23 - Base URL for these Testhttps://monday.com
+2025-02-13 11:46:25 INFO  BaseTest:23 - Base URL for these Testhttps://monday.com
+2025-02-13 11:46:45 INFO  BaseTest:23 - Base URL for these Testhttps://monday.com
+2025-02-13 11:47:01 INFO  BaseTest:23 - Base URL for these Testhttps://monday.com
+2025-02-13 11:47:15 INFO  BaseTest:23 - Base URL for these Testhttps://monday.com
+2025-02-13 11:47:29 INFO  BaseTest:23 - Base URL for these Testhttps://monday.com
+2025-02-13 11:47:49 INFO  BaseTest:23 - Base URL for these Testhttps://monday.com
+2025-02-13 11:50:42 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 11:50:49 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:50:53 INFO  BaseTest:26 - We are on Contact page
+2025-02-13 11:51:13 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:51:16 INFO  BaseTest:52 - Password Field is VISIBLE
+2025-02-13 11:51:30 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:51:34 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:51:39 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:51:44 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:51:55 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:52:09 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:52:56 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 11:53:03 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:53:07 INFO  BaseTest:26 - We are on Contact page
+2025-02-13 11:53:28 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:53:33 INFO  BaseTest:52 - Password Field is VISIBLE
+2025-02-13 11:53:50 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:53:58 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:54:16 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:54:27 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:54:34 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:54:39 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 11:56:35 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 11:56:39 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 12:01:47 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 12:01:54 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 12:02:13 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 12:02:20 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 12:02:28 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 12:02:40 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 12:03:58 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 12:04:15 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 12:04:23 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 12:04:44 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 12:04:58 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 12:06:28 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 12:06:31 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 12:06:36 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 12:06:41 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 12:08:13 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 12:08:20 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 12:08:24 INFO  BaseTest:26 - We are on Contact page
+2025-02-13 12:09:03 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 12:09:11 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 12:09:30 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 12:09:42 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 12:14:40 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 12:14:58 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 12:31:16 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 12:31:23 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 12:33:52 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 12:33:58 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 12:36:34 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 12:36:41 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 12:40:42 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 12:40:49 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 12:48:28 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 12:48:36 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 12:51:40 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 12:51:48 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 12:52:54 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 12:53:01 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 12:54:58 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 12:57:19 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 12:57:27 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 12:57:33 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 12:59:51 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 12:59:58 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 13:02:54 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 13:03:01 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 13:03:32 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 13:03:39 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 13:04:24 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 13:04:32 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 13:06:24 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 13:06:32 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 13:07:56 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 13:08:03 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 13:09:04 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 13:09:12 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 13:10:28 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 13:10:35 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 13:11:24 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 13:11:32 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 13:28:47 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 13:28:56 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 13:29:00 INFO  BaseTest:52 - Password Field is VISIBLE
+2025-02-13 13:45:52 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 13:46:01 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 13:46:05 INFO  BaseTest:55 - Password Field is VISIBLE
+2025-02-13 13:49:42 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 13:49:49 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 13:50:13 INFO  BaseTest:56 - Password Field is VISIBLE
+2025-02-13 13:50:36 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 13:50:42 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 13:51:06 INFO  BaseTest:56 - Password Field is VISIBLE
+2025-02-13 13:51:29 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 13:51:36 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 13:52:00 INFO  BaseTest:56 - Password Field is VISIBLE
+2025-02-13 13:52:12 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 13:52:20 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 13:53:30 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 13:53:36 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 14:06:10 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-13 14:06:18 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 14:06:22 INFO  BaseTest:26 - We are on Contact page
+2025-02-13 14:06:44 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 14:07:08 INFO  BaseTest:56 - Password Field is VISIBLE
+2025-02-13 14:07:16 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 14:07:36 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 14:07:48 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 14:08:00 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 14:08:12 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-13 14:08:28 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com

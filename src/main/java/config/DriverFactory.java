@@ -33,7 +33,7 @@ public class DriverFactory {
     public static WebDriver intializeDriver(){
 
         Browser browser = Browser.valueOf(definedBrowser.toUpperCase());
-        boolean isHeadless = Boolean.parseBoolean(ConfigManager.getProperty("isHeadles"));
+        boolean isHeadless = Boolean.parseBoolean(ConfigManager.getProperty("isHeadless"));
         System.out.println("Loaded Configuration on "+ isHeadless );
 
         switch (browser){

@@ -5,12 +5,13 @@ import io.cucumber.testng.CucumberOptions;
 
 @CucumberOptions(
         features = "src/test/resources/features",
-        glue="stepdefinations",
-        tags="@signup"
-
+        glue="stepdefinations"
 
 
 )
 
 public class Testrunner extends AbstractTestNGCucumberTests{
+
+
+
 }

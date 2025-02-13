@@ -25,6 +25,14 @@ public class SignupPage {
     @FindBy(xpath = "//input[contains(@id,'user')]")
     public WebElement emailField;
 
+
+    @FindBy(xpath = "//iframe[contains(@src, 'recaptcha')]") // Locator for the reCAPTCHA iframe
+    public WebElement recaptchaIframe;
+
+    @FindBy(xpath = "//div[@role='presentation'][@class='recaptcha-checkbox-checkmark']")
+    public WebElement captcha;
+
+
     @FindBy(xpath = "//button[normalize-space()='Continue']")
     public WebElement continueBtn;
 

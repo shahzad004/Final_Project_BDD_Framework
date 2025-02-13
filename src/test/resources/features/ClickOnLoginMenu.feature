@@ -5,6 +5,6 @@ Feature: Login Into Monday.com
     When I will click on loginMenu
     When I will be in loginpage
     Then I will enter my email "shahzadkhan07874@gmail.com"
-    Then I will click on continou
+    Then I will click on continue
     Then I will enter my password "Monday@!@#4"
     Then I will click on next
