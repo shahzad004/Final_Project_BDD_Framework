@@ -897,3 +897,6 @@
 2025-02-13 14:08:00 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
 2025-02-13 14:08:12 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
 2025-02-13 14:08:28 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-18 19:26:33 INFO  Properties:47 - Configuration file is loaded Successfully  for : DEV
+2025-02-18 19:26:48 INFO  BaseTest:29 - Base URL for these Testhttps://monday.com
+2025-02-18 19:26:53 INFO  BaseTest:26 - We are on Contact page
